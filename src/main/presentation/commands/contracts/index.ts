@@ -45,7 +45,7 @@ export const contracts = {
   ┠❥ *!ideia [Sua ideia]*
   ╿
   ╿
-  ╰╼❥ Envie o comando *!sobre [comando]* para descobrir a função e como usar o comando que passar entre chavetas, DEVE LER!!.
+  ╰╼❥ Envie o comando *!sobre [comando]* para descobrir a função e como usar o comando que passar entre chavetas, DEVE LER!!
     `;
   },
 
